@@ -1,6 +1,6 @@
 import threading
-import nation
-import ez_api as ez
+import tools.nation as nation
+import tools.ez_api as ez
 
 
 def get_mil(aa_id, key):
