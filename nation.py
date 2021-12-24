@@ -1,5 +1,5 @@
-import ez_api as ez
 import threading
+import ez_api as ez
 
 
 def get_mil(n_id, key):
